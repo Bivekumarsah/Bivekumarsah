@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710" height="480" viewBox="0 0 710 480" role="img" aria-label="Terminal-style founder developer profile information">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1323"/><stop offset="1" stop-color="#111e31"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#39536c" stroke-opacity=".12"/></pattern>
+  </defs>
+  <rect x="2" y="2" width="706" height="476" rx="20" fill="url(#bg)" stroke="#36546e" stroke-width="3"/>
+  <rect x="3" y="53" width="704" height="423" fill="url(#grid)"/>
+  <circle cx="32" cy="29" r="8" fill="#f08085"/><circle cx="58" cy="29" r="8" fill="#f3bd75"/><circle cx="84" cy="29" r="8" fill="#58c59b"/>
+  <text x="355" y="36" text-anchor="middle" font-family="monospace" font-size="21" fill="#97b2c8">bivek@akeluwasoftwarehub</text>
+  <path d="M3 54H707" stroke="#36546e"/>
+  <g font-family="monospace" font-size="23">
+    <text x="34" y="100" fill="#5be4ce">$ <tspan fill="#eaf2fb">cat developer.json</tspan></text>
+    <text x="34" y="148" fill="#a8b8cf">{</text>
+    <text x="68" y="190" fill="#f4bd7e">"name"<tspan fill="#aebbd0">: </tspan><tspan fill="#e6f0fc">"Bivek Kumar Sah"</tspan><tspan fill="#aebbd0">,</tspan></text>
+    <text x="68" y="232" fill="#f4bd7e">"based"<tspan fill="#aebbd0">: </tspan><tspan fill="#e6f0fc">"Nepal"</tspan><tspan fill="#aebbd0">,</tspan></text>
+    <text x="68" y="274" fill="#f4bd7e">"focus"<tspan fill="#aebbd0">: </tspan><tspan fill="#e6f0fc">"Software &amp; Products"</tspan><tspan fill="#aebbd0">,</tspan></text>
+    <text x="68" y="316" fill="#f4bd7e">"company"<tspan fill="#aebbd0">: </tspan><tspan fill="#e6f0fc">"AKELUWA"</tspan></text>
+    <text x="34" y="353" fill="#a8b8cf">}</text>
+    <text x="34" y="407" fill="#5be4ce">$ <tspan fill="#eaf2fb">git status</tspan></text>
+    <text x="34" y="442" fill="#82dcbf">On branch: building-the-future</text>
+  </g>
+</svg>
